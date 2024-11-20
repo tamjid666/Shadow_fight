@@ -1,0 +1,45 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\shadowFight\shadowFight\Source.cpp(45,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\shadowFight\shadowFight\Source.cpp(58,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\shadowFight\shadowFight\Source.cpp(115,90): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\shadowFight\shadowFight\Source.cpp(115,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\shadowFight\shadowFight\Source.cpp(122,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\shadowFight\shadowFight\Source.cpp(122,66): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+sfml-graphics-s-d.lib(RenderWindow.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(RenderWindow.obj)' or at 'C:\Users\user\source\repos\shadowFight\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Texture.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Texture.obj)' or at 'C:\Users\user\source\repos\shadowFight\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(String.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(String.obj)' or at 'C:\Users\user\source\repos\shadowFight\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Joystick.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Joystick.obj)' or at 'C:\Users\user\source\repos\shadowFight\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(JoystickManager.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(JoystickManager.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Keyboard.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Keyboard.obj)' or at 'C:\Users\user\source\repos\shadowFight\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Window.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Window.obj)' or at 'C:\Users\user\source\repos\shadowFight\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WindowBase.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(WindowBase.obj)' or at 'C:\Users\user\source\repos\shadowFight\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WindowImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(WindowImpl.obj)' or at 'C:\Users\user\source\repos\shadowFight\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(InputImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(InputImpl.obj)' or at 'C:\Users\user\source\repos\shadowFight\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(JoystickImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(JoystickImpl.obj)' or at 'C:\Users\user\source\repos\shadowFight\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WindowImplWin32.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(WindowImplWin32.obj)' or at 'C:\Users\user\source\repos\shadowFight\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WglContext.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(WglContext.obj)' or at 'C:\Users\user\source\repos\shadowFight\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+  shadowFight.vcxproj -> C:\Users\user\source\repos\shadowFight\x64\Debug\shadowFight.exe
